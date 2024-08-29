@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning.
 -I have basic knowledge in C# with .NET and Python, Html, Css, JavaScript. 
-- 📫 How to reach me Enmanuel.Sena@gmail.com
+- 📫 How to reach me 📧 Enmanuel.Sena@gmail.com
 - ⚡ Fun fact: - I love to program any idea if it is within my possibility.
 -I like to continue learning.
 -I like to play video games.
